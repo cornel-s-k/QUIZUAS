@@ -1,6 +1,5 @@
-# quizp13
-
-A new Flutter project.
+# QUIZ PERTEMUAN 13
+Flutter priject untuk mata kuliah mobile lanjut
 
 ## Getting Started
 
